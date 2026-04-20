@@ -128,7 +128,10 @@ http://localhost:5173
 
 ### 🟢 Sending Message
 
-![Sending Message](screenshots/send.png)
+<img width="960" height="500" alt="Screenshot 2026-04-20 153921" src="https://github.com/user-attachments/assets/68ce87d6-47a4-47e3-900c-09b450f0de06" />
+<img width="219" height="292" alt="Screenshot 2026-04-20 153928" src="https://github.com/user-attachments/assets/804e502e-62f4-438a-8396-03bdbf9e0ae1" />
+
+
 
 ---
 
