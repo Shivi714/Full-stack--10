@@ -106,27 +106,22 @@ http://localhost:5173
 
 ### 🟢 Backend (Spring Boot Setup)
 
-![Spring Boot Project](screenshots/backend-project.png)
+<img width="237" height="471" alt="Screenshot 2026-04-17 145811" src="https://github.com/user-attachments/assets/53580532-b119-48b4-a11c-6a7f8d3fdf49" />
 
-![WebSocket Config](screenshots/websocket-config.png)
-
-![Controller](screenshots/controller.png)
 
 ---
 
 ### 🟢 Frontend (Project Setup)
 
-![React Folder Structure](screenshots/frontend-structure.png)
+<img width="161" height="349" alt="Screenshot 2026-04-17 145825" src="https://github.com/user-attachments/assets/561ce143-c911-4bd4-ab95-208221aa51ce" />
 
-![Components Code](screenshots/components.png)
-
-![Vite Config](screenshots/vite-config.png)
 
 ---
 
-### 🟢 Chat UI
+### 🟢 Spring boot installing
 
-![Chat UI](screenshots/chat-ui.png)
+<img width="267" height="341" alt="Screenshot 2026-04-17 145727" src="https://github.com/user-attachments/assets/c362b6ba-5762-4fa8-b22d-bf53f0183045" />
+
 
 ---
 
@@ -137,8 +132,11 @@ http://localhost:5173
 ---
 
 ### 🟢 Real-Time Chat (2 Tabs)
+<img width="959" height="516" alt="Screenshot 2026-04-17 145730" src="https://github.com/user-attachments/assets/269e3544-9ea7-4bd3-ad94-71e580ada0c1" />
 
-![Real Time](screenshots/realtime.png)
+<img width="960" height="506" alt="Screenshot 2026-04-17 145737" src="https://github.com/user-attachments/assets/70d54730-57ab-4af1-b512-69275ae65388" />
+
+
 
 ---
 
