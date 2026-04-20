@@ -119,8 +119,9 @@ http://localhost:5173
 ---
 
 ### 🟢 Spring boot installing
+<img width="464" height="405" alt="Screenshot 2026-04-17 145801" src="https://github.com/user-attachments/assets/94da6468-8fbb-4fe9-97ca-74fc32aea928" />
 
-<img width="267" height="341" alt="Screenshot 2026-04-17 145727" src="https://github.com/user-attachments/assets/c362b6ba-5762-4fa8-b22d-bf53f0183045" />
+
 
 
 ---
